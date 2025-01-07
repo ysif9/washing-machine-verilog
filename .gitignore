@@ -1,0 +1,13 @@
+.idea
+covhtmlreport
+*.do
+*.bak
+*.vcd
+work
+test
+*.yml
+*.vstf
+*.dbg
+*.wlf
+*.mti
+*.mpf
